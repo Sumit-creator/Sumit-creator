@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on **Computer Science and Engineering.**
 
-- 🌱 I’m currently learning **Angular, Express js.**
+- 🌱 I’m currently learning **Node, Express js.**
 
 - 👯 I’m looking to collaborate on **Web applications and full stack projects.**
 
